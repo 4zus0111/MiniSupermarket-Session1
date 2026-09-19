@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\MiniSupermarket-Session2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\MiniSupermarket-Session2\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D468C02C-AB74-4269-8030-56A2DE6150A8}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|d:\\minisupermarket-session2\\minisupermarket.winforms\\minisupermarket.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D468C02C-AB74-4269-8030-56A2DE6150A8}|MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj|solutionrelative:minisupermarket.winforms\\minisupermarket.winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\MiniSupermarket-Session2\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\MiniSupermarket-Session2\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-19T10:37:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormCategoryManagement.cs",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\FormCategoryManagement.cs",
               "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCategoryManagement.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FormCategoryManagement.cs [Design]",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\FormCategoryManagement.cs",
               "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCategoryManagement.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\Program.cs",
               "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\Program.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\Program.cs",
               "RelativeDocumentMoniker": "MiniSupermarket.API\\Program.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MiniSupermarket.WinForms.csproj",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj",
               "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj",
@@ -112,19 +129,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FormCategoryManagement.resx",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\FormCategoryManagement.resx",
               "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCategoryManagement.resx",
               "ToolTip": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\FormCategoryManagement.resx",
               "RelativeToolTip": "MiniSupermarket.WinForms\\FormCategoryManagement.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-09-12T11:24:02.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T11:24:02.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FormCategoryManagement.Designer.cs",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\FormCategoryManagement.Designer.cs",
               "RelativeDocumentMoniker": "MiniSupermarket.WinForms\\FormCategoryManagement.Designer.cs",
@@ -132,12 +148,11 @@
               "RelativeToolTip": "MiniSupermarket.WinForms\\FormCategoryManagement.Designer.cs",
               "ViewState": "AgIAAMAAAAAAAAAAAADwv9QAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T11:21:20.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T11:21:20.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "MiniSupermarket.API\\Controllers\\CategoriesController.cs",
@@ -149,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MiniSupermarket.API\\Models\\Category.cs",

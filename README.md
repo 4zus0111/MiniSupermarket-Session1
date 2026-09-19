@@ -51,10 +51,10 @@ Nhấp chuột phải vào project MiniSupermarket.WinForms chọn Debug -> Star
 Thử nghiệm các chức năng: Tải danh sách, Thêm mới, Sửa, Xóa và Tìm kiếm nhóm hàng.
 
 👨‍💻 5. Tác giả
-Họ tên sinh viên: Nguyễn Lê Chí Công
+Họ tên sinh viên: Huỳnh Nhật Lâm
 
 
-Mã sinh viên: 2124110094
+Mã sinh viên: 2124110334
 
 
 Lớp học phần: CCQ2411C
