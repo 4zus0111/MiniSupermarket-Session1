@@ -1,4 +1,6 @@
 ﻿using System.Net.Http.Json;
+using System.Net.Http.Headers;
+
 
 namespace MiniSupermarket.WinForms
 {
@@ -12,7 +14,14 @@ namespace MiniSupermarket.WinForms
         public FormCategoryManagement()
         {
             InitializeComponent();
+
+            // Gắn JWT token của tài khoản vừa đăng nhập
+            _client.DefaultRequestHeaders.Authorization =
+                new AuthenticationHeaderValue(
+                    "Bearer",
+                    SessionManager.JwtToken);
         }
+
 
         private async void FormCategoryManagement_Load(object sender, EventArgs e)
         {
