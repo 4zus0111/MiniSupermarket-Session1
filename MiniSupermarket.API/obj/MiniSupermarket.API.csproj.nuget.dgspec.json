@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\MiniSupermarket.API.csproj": {}
+    "D:\\MiniSupermarket-Session1\\MiniSupermarket.API\\MiniSupermarket.API.csproj": {}
   },
   "projects": {
-    "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\MiniSupermarket.API.csproj": {
+    "D:\\MiniSupermarket-Session1\\MiniSupermarket.API\\MiniSupermarket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\MiniSupermarket.API.csproj",
+        "projectUniqueName": "D:\\MiniSupermarket-Session1\\MiniSupermarket.API\\MiniSupermarket.API.csproj",
         "projectName": "MiniSupermarket.API",
-        "projectPath": "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\MiniSupermarket.API.csproj",
+        "projectPath": "D:\\MiniSupermarket-Session1\\MiniSupermarket.API\\MiniSupermarket.API.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\MiniSupermarket-Session2\\MiniSupermarket.API\\obj\\",
+        "outputPath": "D:\\MiniSupermarket-Session1\\MiniSupermarket.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

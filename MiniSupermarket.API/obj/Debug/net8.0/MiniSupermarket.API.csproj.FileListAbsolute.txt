@@ -115,3 +115,13 @@ D:\MiniSupermarket-Session2\MiniSupermarket.API\obj\Debug\net8.0\refint\MiniSupe
 D:\MiniSupermarket-Session2\MiniSupermarket.API\obj\Debug\net8.0\MiniSupermarket.API.pdb
 D:\MiniSupermarket-Session2\MiniSupermarket.API\obj\Debug\net8.0\MiniSupermarket.API.genruntimeconfig.cache
 D:\MiniSupermarket-Session2\MiniSupermarket.API\obj\Debug\net8.0\ref\MiniSupermarket.API.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\MiniSupermarket-Session1\MiniSupermarket.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
