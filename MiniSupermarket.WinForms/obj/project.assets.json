@@ -262,11 +262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj",
+      "projectUniqueName": "D:\\MiniSupermarket-Session1\\MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj",
       "projectName": "MiniSupermarket.WinForms",
-      "projectPath": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj",
+      "projectPath": "D:\\MiniSupermarket-Session1\\MiniSupermarket.WinForms\\MiniSupermarket.WinForms.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\MiniSupermarket-Session2\\MiniSupermarket.WinForms\\obj\\",
+      "outputPath": "D:\\MiniSupermarket-Session1\\MiniSupermarket.WinForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
